@@ -1,6 +1,6 @@
 # Cryptopals Solutions
 
-![Cryptopals](https://cryptopals.com/static/img/logo.png)
+## Cryptopals
 
 Bu repo, [Cryptopals](https://cryptopals.com/) Kriptografi Meydan Okumalarının çözümlerini içermektedir. Şu an için **Set 1** tamamlanmış olup, ilerleyen zamanlarda diğer setlerin çözümleri de eklenecektir.
 
